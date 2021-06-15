@@ -1,0 +1,10 @@
+Execution time in nanoseconds of bubbleSort 10 : 2887600
+Execution time in milliseconds of bubbleSort 10 : 2
+Execution time in nanoseconds of bubbleSort 100 : 1453500
+Execution time in milliseconds of bubbleSort 100 : 1
+Execution time in nanoseconds of bubbleSort 1000 : 866100
+Execution time in milliseconds of bubbleSort 1000 : 0
+Execution time in nanoseconds of bubbleSort 10000 : 1281500
+Execution time in milliseconds of bubbleSort 10000 : 1
+Execution time in nanoseconds of bubbleSort 100000 : 3588900
+Execution time in milliseconds of bubbleSort 100000 : 3

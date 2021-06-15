@@ -1,0 +1,10 @@
+Execution time in nanoseconds of bucketSort 10 : 949000
+Execution time in milliseconds of bucketSort 10 : 0
+Execution time in nanoseconds of bucketSort 100 : 436400
+Execution time in milliseconds of bucketSort 100 : 0
+Execution time in nanoseconds of bucketSort 1000 : 706900
+Execution time in milliseconds of bucketSort 1000 : 0
+Execution time in nanoseconds of bucketSort 10000 : 876000
+Execution time in milliseconds of bucketSort 10000 : 0
+Execution time in nanoseconds of bucketSort 100000 : 2665500
+Execution time in milliseconds of bucketSort 100000 : 2

@@ -1,10 +1,10 @@
 Execution time in nanoseconds of cocktailSort 10 : 1200
 Execution time in milliseconds of cocktailSort 10 : 0
-Execution time in nanoseconds of cocktailSort 100 : 54600
+Execution time in nanoseconds of cocktailSort 100 : 14400
 Execution time in milliseconds of cocktailSort 100 : 0
-Execution time in nanoseconds of cocktailSort 1000 : 992100
-Execution time in milliseconds of cocktailSort 1000 : 0
-Execution time in nanoseconds of cocktailSort 10000 : 69905300
-Execution time in milliseconds of cocktailSort 10000 : 69
-Execution time in nanoseconds of cocktailSort 100000 : 8341358700
-Execution time in milliseconds of cocktailSort 100000 : 8341
+Execution time in nanoseconds of cocktailSort 1000 : 1296100
+Execution time in milliseconds of cocktailSort 1000 : 1
+Execution time in nanoseconds of cocktailSort 10000 : 75864400
+Execution time in milliseconds of cocktailSort 10000 : 75
+Execution time in nanoseconds of cocktailSort 100000 : 9183579800
+Execution time in milliseconds of cocktailSort 100000 : 9183

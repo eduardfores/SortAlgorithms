@@ -1,0 +1,10 @@
+Execution time in nanoseconds of radixSort 10 : 4600
+Execution time in milliseconds of radixSort 10 : 0
+Execution time in nanoseconds of radixSort 100 : 12800
+Execution time in milliseconds of radixSort 100 : 0
+Execution time in nanoseconds of radixSort 1000 : 124700
+Execution time in milliseconds of radixSort 1000 : 0
+Execution time in nanoseconds of radixSort 10000 : 626300
+Execution time in milliseconds of radixSort 10000 : 0
+Execution time in nanoseconds of radixSort 100000 : 6129100
+Execution time in milliseconds of radixSort 100000 : 6

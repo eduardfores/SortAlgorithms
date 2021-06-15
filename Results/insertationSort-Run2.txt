@@ -1,10 +1,10 @@
-Execution time in nanoseconds of insertationSort 10 : 600
+Execution time in nanoseconds of insertationSort 10 : 400
 Execution time in milliseconds of insertationSort 10 : 0
-Execution time in nanoseconds of insertationSort 100 : 3600
+Execution time in nanoseconds of insertationSort 100 : 2300
 Execution time in milliseconds of insertationSort 100 : 0
-Execution time in nanoseconds of insertationSort 1000 : 160200
+Execution time in nanoseconds of insertationSort 1000 : 112700
 Execution time in milliseconds of insertationSort 1000 : 0
-Execution time in nanoseconds of insertationSort 10000 : 10280100
+Execution time in nanoseconds of insertationSort 10000 : 10921300
 Execution time in milliseconds of insertationSort 10000 : 10
-Execution time in nanoseconds of insertationSort 100000 : 934928000
-Execution time in milliseconds of insertationSort 100000 : 934
+Execution time in nanoseconds of insertationSort 100000 : 1136838800
+Execution time in milliseconds of insertationSort 100000 : 1136

@@ -1,10 +1,10 @@
-Execution time in nanoseconds of mergeSort 10 : 27800
+Execution time in nanoseconds of mergeSort 10 : 7400
 Execution time in milliseconds of mergeSort 10 : 0
-Execution time in nanoseconds of mergeSort 100 : 42300
+Execution time in nanoseconds of mergeSort 100 : 70900
 Execution time in milliseconds of mergeSort 100 : 0
-Execution time in nanoseconds of mergeSort 1000 : 389700
+Execution time in nanoseconds of mergeSort 1000 : 686300
 Execution time in milliseconds of mergeSort 1000 : 0
-Execution time in nanoseconds of mergeSort 10000 : 2366600
-Execution time in milliseconds of mergeSort 10000 : 2
-Execution time in nanoseconds of mergeSort 100000 : 10237000
-Execution time in milliseconds of mergeSort 100000 : 10
+Execution time in nanoseconds of mergeSort 10000 : 1594000
+Execution time in milliseconds of mergeSort 10000 : 1
+Execution time in nanoseconds of mergeSort 100000 : 17824500
+Execution time in milliseconds of mergeSort 100000 : 17

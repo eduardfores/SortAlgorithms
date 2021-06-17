@@ -1,5 +1,5 @@
-Median result for test 10: Java_1.3666666666666667 Python_0.0
-Median result for test 100: Java_58.06666666666666 Python_826.9151051839193
-Median result for test 1000: Java_1871.4 Python_55388.450622558594
-Median result for test 10000: Java_99468.3 Python_5679222.345352173
-Median result for test 100000: Java_1.19778264E7 Python_6.058618936538696E8
+Median result for test 10: Java_1126.0666666666668 Python_0.0
+Median result for test 100: Java_650.5333333333334 Python_661.2141927083334
+Median result for test 1000: Java_457.9 Python_991.4239247639974
+Median result for test 10000: Java_790.5666666666666 Python_7306.814193725586
+Median result for test 100000: Java_1665.7 Python_58025.04221598307

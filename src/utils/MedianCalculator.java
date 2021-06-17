@@ -94,13 +94,20 @@ public class MedianCalculator {
 				bw = new BufferedWriter(new FileWriter(new File("Results/"+algorithmNames[i].getName()+"-MedianResult.txt")));
 				
 				for(int j=0; j<NUM_TEST; j++) {
-					System.out.println("Median result for test "+length+": Java_"+javaMedianList.get(j)+" Python_"+pythonMedianList.get(j));
 					bw.write("Median result for test "+length+": Java_"+javaMedianList.get(j)+" Python_"+pythonMedianList.get(j)+"\n");
 					length *= 10;
 				}
 				
 				bw.close();
 				
+				length = 10;
+				for(int j=0; j<NUM_TEST; j++) {
+					javaInfo.put(length, new ArrayList<Double>());
+					pythonInfo.put(length, new ArrayList<Double>());
+					length *= 10;
+				}
+				javaMedianList.clear();
+				pythonMedianList.clear();
 				length = 10;
 			}
 			

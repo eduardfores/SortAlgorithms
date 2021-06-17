@@ -35,7 +35,7 @@ class InsertationSort:
             
             fileLength *= 10
 
-         writeFile(l, 'InserationSort', 'Run'+str(i+1))
+         writeFile(l, 'insertationSort', 'Run'+str(i+1))
          del l[:]
          fileLength = 10
 

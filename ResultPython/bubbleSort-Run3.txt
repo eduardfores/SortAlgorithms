@@ -1,0 +1,10 @@
+Execution time in nanoseconds ofbubbleSort 10 : 0.0
+Execution time in microseconds ofbubbleSort 10 : 0.0
+Execution time in nanoseconds ofbubbleSort 100 : 509977.3406982422
+Execution time in microseconds ofbubbleSort 100 : 509.9773406982422
+Execution time in nanoseconds ofbubbleSort 1000 : 57039976.11999512
+Execution time in microseconds ofbubbleSort 1000 : 57039.97611999512
+Execution time in nanoseconds ofbubbleSort 10000 : 5618724346.160889
+Execution time in microseconds ofbubbleSort 10000 : 5618724.346160889
+Execution time in nanoseconds ofbubbleSort 100000 : 598586809396.7438
+Execution time in microseconds ofbubbleSort 100000 : 598586809.3967438

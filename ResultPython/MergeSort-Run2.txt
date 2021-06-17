@@ -1,0 +1,10 @@
+Execution time in nanoseconds ofMergeSort 10 : 0.0
+Execution time in microseconds ofMergeSort 10 : 0.0
+Execution time in nanoseconds ofMergeSort 100 : 495672.22595214844
+Execution time in microseconds ofMergeSort 100 : 495.67222595214844
+Execution time in nanoseconds ofMergeSort 1000 : 3472089.7674560547
+Execution time in microseconds ofMergeSort 1000 : 3472.0897674560547
+Execution time in nanoseconds ofMergeSort 10000 : 37200212.478637695
+Execution time in microseconds ofMergeSort 10000 : 37200.212478637695
+Execution time in nanoseconds ofMergeSort 100000 : 374016761.77978516
+Execution time in microseconds ofMergeSort 100000 : 374016.76177978516

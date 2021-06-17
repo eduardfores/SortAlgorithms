@@ -1,0 +1,10 @@
+Execution time in nanoseconds ofCockTailSort 10 : 0.0
+Execution time in microseconds ofCockTailSort 10 : 0.0
+Execution time in nanoseconds ofCockTailSort 100 : 490427.01721191406
+Execution time in microseconds ofCockTailSort 100 : 490.42701721191406
+Execution time in nanoseconds ofCockTailSort 1000 : 59553623.19946289
+Execution time in microseconds ofCockTailSort 1000 : 59553.62319946289
+Execution time in nanoseconds ofCockTailSort 10000 : 5056715726.852417
+Execution time in microseconds ofCockTailSort 10000 : 5056715.726852417
+Execution time in nanoseconds ofCockTailSort 100000 : 539278803348.54126
+Execution time in microseconds ofCockTailSort 100000 : 539278803.3485413

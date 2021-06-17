@@ -1,10 +1,10 @@
-Execution time in nanoseconds of countingSort 10 : 130000
+Execution time in nanoseconds of countingSort 10 : 293500
 Execution time in milliseconds of countingSort 10 : 0
-Execution time in nanoseconds of countingSort 100 : 198800
+Execution time in nanoseconds of countingSort 100 : 211700
 Execution time in milliseconds of countingSort 100 : 0
-Execution time in nanoseconds of countingSort 1000 : 243600
+Execution time in nanoseconds of countingSort 1000 : 289600
 Execution time in milliseconds of countingSort 1000 : 0
-Execution time in nanoseconds of countingSort 10000 : 401100
+Execution time in nanoseconds of countingSort 10000 : 583600
 Execution time in milliseconds of countingSort 10000 : 0
-Execution time in nanoseconds of countingSort 100000 : 2486700
-Execution time in milliseconds of countingSort 100000 : 2
+Execution time in nanoseconds of countingSort 100000 : 1065700
+Execution time in milliseconds of countingSort 100000 : 1

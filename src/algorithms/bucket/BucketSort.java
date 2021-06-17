@@ -10,14 +10,14 @@ import utils.FileTimeWritter;
 public class BucketSort {
 	static int[] bucketSort(int[] array, int maxValue) {
 
-		int[] Bucket = new int[maxValue + 1];
+		int[] bucket = new int[maxValue + 1];
 
 		int[] sorted_array = new int[array.length];
 		for (int i = 0; i < array.length; i++)
-			Bucket[array[i]]++;
+			bucket[array[i]]++;
 		int outPos = 0;
-		for (int i = 0; i < Bucket.length; i++)
-			for (int j = 0; j < Bucket[i]; j++)
+		for (int i = 0; i < bucket.length; i++)
+			for (int j = 0; j < bucket[i]; j++)
 				sorted_array[outPos++] = i;
 		
 		return sorted_array;

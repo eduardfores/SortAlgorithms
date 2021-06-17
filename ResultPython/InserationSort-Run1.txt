@@ -1,0 +1,10 @@
+Execution time in nanoseconds ofInserationSort 10 : 0.0
+Execution time in microseconds ofInserationSort 10 : 0.0
+Execution time in nanoseconds ofInserationSort 100 : 0.0
+Execution time in microseconds ofInserationSort 100 : 0.0
+Execution time in nanoseconds ofInserationSort 1000 : 28304815.2923584
+Execution time in microseconds ofInserationSort 1000 : 28304.8152923584
+Execution time in nanoseconds ofInserationSort 10000 : 2641760826.11084
+Execution time in microseconds ofInserationSort 10000 : 2641760.82611084
+Execution time in nanoseconds ofInserationSort 100000 : 302433454275.1312
+Execution time in microseconds ofInserationSort 100000 : 302433454.2751312

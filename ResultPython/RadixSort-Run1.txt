@@ -1,0 +1,10 @@
+Execution time in nanoseconds ofRadixSort 10 : 4489898.681640625
+Execution time in microseconds ofRadixSort 10 : 4489.898681640625
+Execution time in nanoseconds ofRadixSort 100 : 35718917.84667969
+Execution time in microseconds ofRadixSort 100 : 35718.91784667969
+Execution time in nanoseconds ofRadixSort 1000 : 337317228.31726074
+Execution time in microseconds ofRadixSort 1000 : 337317.22831726074
+Execution time in nanoseconds ofRadixSort 10000 : 3390652179.7180176
+Execution time in microseconds ofRadixSort 10000 : 3390652.1797180176
+Execution time in nanoseconds ofRadixSort 100000 : 33953174591.064453
+Execution time in microseconds ofRadixSort 100000 : 33953174.59106445
